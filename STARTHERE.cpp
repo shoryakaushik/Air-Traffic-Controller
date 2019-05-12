@@ -560,11 +560,11 @@ gotoxy(20,15);cout<<"               SUBMITTED BY";
 gotoxy(15,16);cout<<"                 **SHORYA KAUSHIK**";
 
 
-gotoxy(15,17);cout<<"                 **SAKSHI MISHRA **";
-gotoxy(15,18);cout<<"                 **URVASHI GUPTA **";
-gotoxy(15,19);cout<<"                 **RAKSHIT SINGH **";
+gotoxy(15,17);cout<<"                 **RAKSHIT SINGH **";
+gotoxy(15,18);cout<<"                 **DIVYANSH JAIN **";
 
-gotoxy(18,23);cout<<"       A PROJECT IN C++ (BY BATCH - B1)";
+
+gotoxy(18,23);cout<<"       TOPL PROJECT IN C++ (BY BATCH - B1)";
 gotoxy(19,25);cout<<"JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY";
 gotoxy(19,26);cout<<"******************************************";
 
